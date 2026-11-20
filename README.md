@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 王顺驰 (Shunchi Wang / Jake Lihua)
+# 👨‍💻 王顺驰 (Knight Wang / knightwwang)
 
 **资深 AI 架构师 ｜ 前腾讯内容安全与高并发研发 ｜ 知名技术 IP【极客李华】主理人**  
 *Senior AI Architect & Agent Runtime Specialist · Former Tencent Engineer*
@@ -32,7 +32,7 @@
 - **大厂技术影响力与官方收录**：在职期间内部技术知识库影响力超 97%，多篇高并发架构与系统稳定性深度复盘获「腾讯技术工程」官方收录转载。
 
 #### 🚀 AI 初创企业核心实践 ｜ 大模型 Agent 全栈研发与策略架构 (实战满 1 年)
-- **从 0 到 1 架构设计与攻坚韧性 (High Agency)**：作为早期核心研发骨干，全面主导大模型 Agent 运行时架构与知识召回链路从零到一的设计与搭建；在极具挑战的高压环境下展现极强适应力与交付稳定性，为同期社招研发中留存最久的攻坚中坚。
+- **从 0 到 1 架构设计与攻坚韧性 (High Agency)**：作为早期核心研发骨干，全面主导大模型 Agent 运行时架构与知识召回链路从零到一的设计与落地；在极具挑战的高压环境下展现极强适应力与交付稳定性，为同期社招研发中留存最久的攻坚中坚。
 - **带队攻坚与端到端全链路交付 (FDE)**：曾带领 2 名算法博士实习生，全流程独立主导复杂生产级系统的前端设计、全栈算法开发、现场实施交付与高可用运维保障，打通端到端工程闭环，顺利通过全周期交付验收。
 - **底层算法调优与消融实验基准建设**：负责核心 Agent 框架底层动态状态剪枝、上下文窗口压缩与工具调度策略调优，沉淀高吞吐、低延迟的算法基准，并构建严谨可复现的消融实验（Ablation Study）评测流水线。
 - **高敏感场景合规护栏与 POC 验证**：针对非标复杂规则与复杂图文报表的高精度检索需求，设计生产级合规风控屏障与高精度召回范式，高质量完成阶段性攻关打样。
@@ -80,5 +80,5 @@
 ---
 
 <div align="center">
-  <sub>Built with high-agency engineering & rigor · Copyright © 2026 Shunchi Wang. All rights reserved.</sub>
+  <sub>Built with high-agency engineering & rigor · Copyright © 2026 Knight Wang (knightwwang). All rights reserved.</sub>
 </div>
