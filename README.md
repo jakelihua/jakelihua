@@ -5,7 +5,7 @@
 **资深 AI 架构师 ｜ 前腾讯业务安全研发 ｜ 知名技术 IP【极客李华】主理人**  
 *Senior AI Architect & Agent Runtime Specialist · Former Tencent Engineer*
 
-[![Email](https://img.shields.io/badge/Email-1184872408%40qq.com-blue?style=for-the-badge&logo=gmail)](mailto:1184872408@qq.com)
+[![Gmail](https://img.shields.io/badge/Gmail-jakelihua%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:jakelihua@gmail.com)
 [![CSDN](https://img.shields.io/badge/CSDN-106K%2B_Followers-red?style=for-the-badge&logo=csdn)](https://blog.csdn.net)
 [![WeChat](https://img.shields.io/badge/WeChat-【极客李华】-07C160?style=for-the-badge&logo=wechat)](https://mp.weixin.qq.com)
 
