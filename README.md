@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 王顺驰 (Knight Wang / knightwwang)
+# 👨‍💻 Shunchi Wang (knightwwang)
 
 **资深 AI 架构师 ｜ 前腾讯内容安全与高并发研发 ｜ 知名技术 IP【极客李华】主理人**  
 *Senior AI Architect & Agent Runtime Specialist · Former Tencent Engineer*
@@ -80,5 +80,5 @@
 ---
 
 <div align="center">
-  <sub>Built with high-agency engineering & rigor · Copyright © 2026 Knight Wang (knightwwang). All rights reserved.</sub>
+  <sub>Built with high-agency engineering & rigor · Copyright © 2026 Shunchi Wang (knightwwang). All rights reserved.</sub>
 </div>
