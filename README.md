@@ -6,6 +6,7 @@
 *Senior AI Architect & Agent Runtime Specialist · Former Tencent Engineer*
 
 [![Gmail](https://img.shields.io/badge/Gmail-jakelihua%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:jakelihua@gmail.com)
+[![QQ Mail](https://img.shields.io/badge/QQ_Mail-1184872408%40qq.com-12B7F5?style=for-the-badge&logo=tencentqq)](mailto:1184872408@qq.com)
 [![CSDN](https://img.shields.io/badge/CSDN-106K%2B_Followers-red?style=for-the-badge&logo=csdn)](https://blog.csdn.net)
 [![WeChat](https://img.shields.io/badge/WeChat-【极客李华】-07C160?style=for-the-badge&logo=wechat)](https://mp.weixin.qq.com)
 
